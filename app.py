@@ -20,7 +20,7 @@ app.secret_key = 'abc123secretkey'
 
 
 # Instantiate the OpenAI client with API key from environment variable
-client = OpenAI(api_key= '')
+client = OpenAI(api_key= 'RETRACTED FOR UPLOADING PURPOSES')
 
 
 # Load the predictive model from a file
