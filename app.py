@@ -16,7 +16,7 @@ app = Flask(__name__)
 
 
 # Set the secret key for the Flask application from an environment variable
-app.secret_key = 'abc123secretkey'
+app.secret_key = 'ab12secretkey'
 
 
 # Instantiate the OpenAI client with API key from environment variable
